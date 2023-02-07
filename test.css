@@ -92,7 +92,7 @@
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color: transparent !important;
-    background: url(https://cdn.discordapp.com/attachments/1062724700897300672/1063107862496288788/Untitled-11.png) !important;
+    background: url(/assets/sidebg_resized.jpg) !important;
     *box-shadow: inset0px0px1278pxrgba(220, 20, 60, 0.2);
     *border-radius: 20px20px0px0px
 }
