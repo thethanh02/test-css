@@ -3,7 +3,7 @@
 :root {
     --font-display: 'Dosis', sans-serif !important;
     --font-body: 'Dosis', sans-serif !important;
-    --background: url('https://cdn.discordapp.com/attachments/1062724700897300672/1062930647385133097/spirit-blossom-irelia-pink-pink-punk.jpg')
+    --background: url('/assets/bg.gif')
 }
 
 .LcOverview__NavBarSlot-sc-1epub3v-3 {
