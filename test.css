@@ -93,8 +93,7 @@
     -webkit-user-select: none;
     background-color: transparent !important;
     background: url(/assets/sidebg_resized.jpg) !important;
-    *box-shadow: inset0px0px1278pxrgba(220, 20, 60, 0.2);
-    *border-radius: 20px20px0px0px
+    box-shadow: inset 0px 0px 1278px rgba(220, 20, 60, 0.2);
 }
 
 .lol-uikit-dialog-frame.top,
