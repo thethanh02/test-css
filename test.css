@@ -149,7 +149,8 @@
 .clash-tab-team-root,
 .clash-tab-awards,
 .clash-tab-winners {
-    background-color: rgba(22, 22, 22, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
+    /* background-color: rgba(22, 22, 22, .626) !important; */
     transition: all .2s ease-in-out !important
 }
 
