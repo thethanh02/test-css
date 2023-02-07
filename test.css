@@ -92,7 +92,7 @@
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color: transparent !important;
-    background: url(/assets/sidebg_resized.jpg) !important;
+    background: url(/assets/sidebg-resized.png) !important;
     box-shadow: inset 0px 0px 1278px rgba(220, 20, 60, 0.2);
 }
 
